@@ -1,6 +1,5 @@
 print("Start of the file.")
 
-x = 2
-print(x)
+print("Hello World!")
 
-print("End of hte file.")
+print("End of the file.")
